@@ -139,3 +139,11 @@ button {
 .box button {
     border: solid #e5e7eb;
 }
+footer {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+}
